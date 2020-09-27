@@ -1,10 +1,10 @@
 ## trsh-go
 
-Telegram Remote-Shell is a Golang script that let you comunicate with your Linux server using a Telegram Bot. 
-This repo is a re-make of my original Python script created a few years ago
+Telegram Remote-Shell is a Golang script that let you comunicate with your Linux server using a Telegram Bot  <br>
+This repo is a re-make of my original Python script created a few years ago [here](https://github.com/fnzv/trsh)
 
 -----------------
-![Telegram](/img/bot.png?raw=true =100x20)
+![](img/bot.png?raw=true)
  <br>
 
  -------------------------------

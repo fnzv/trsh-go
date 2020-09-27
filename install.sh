@@ -1,9 +1,5 @@
 echo "############## Starting trsh setup ################"
 
-echo "Cloning trsh-go repo inside /home dir.."
-
-git clone https://github.com/fnzv/trsh-go /home/trsh/ && cd /home/trsh/
-
 echo "Installing the last trsh-go binary release from github...."
 cp release/trsh /usr/bin/trsh
 

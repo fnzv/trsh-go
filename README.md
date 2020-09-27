@@ -21,10 +21,10 @@ Before setup: <br>
 * Chat with BotFather in order to create a Bot ( https://telegram.me/botfather ), just launch the command /newbot and get your Telegram Token. <br>
  Open the bot chat and send some messages to activate the bot. <br>
 
-* Launch this script on your Linux system (where the bot will be running as a service): <br>
+* Launch this oneliner+script on your Linux system (where the bot will be running as a service): <br>
 
 ```
-curl https://raw.githubusercontent.com/fnzv/trsh-go/master/install.sh | bash
+git clone https://github.com/fnzv/trsh-go /home/trsh/ && cd /home/trsh/ && bash install.sh
 ```
 
 ##### WARNING: this command will install the required/missing packages ( dnsutils, nmap, mtr, net-tools )
